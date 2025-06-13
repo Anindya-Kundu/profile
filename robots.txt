@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anindya-kundu.github.io/profile/sitemap.xml
